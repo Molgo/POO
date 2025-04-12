@@ -32,4 +32,4 @@ public class EX7_2{
 um intervalo. Ao final, imprima uma mensagem informando se n está antes, dentro ou
 depois do intervalo.*/
 
-//teste
+//testagem
