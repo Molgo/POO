@@ -31,3 +31,5 @@ public class EX7_2{
 /*Exercício 7: Leia um número inteiro n e mais dois números (maior ou menor) que formam
 um intervalo. Ao final, imprima uma mensagem informando se n está antes, dentro ou
 depois do intervalo.*/
+
+//teste
